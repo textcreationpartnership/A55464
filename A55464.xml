@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popish Plot taken out of several depositions made and sworn before the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55464</idno>
+            <idno type="STC">Wing P2956</idno>
+            <idno type="STC">ESTC R8779</idno>
+            <idno type="EEBO-CITATION">13737061</idno>
+            <idno type="OCLC">ocm 13737061</idno>
+            <idno type="VID">101644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popish Plot taken out of several depositions made and sworn before the Parliament.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Probable place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101644:1" rendition="simple:additions"/>
+            <head>THE POPISH PLOT, Taken out of ſeveral DEPOSITIONS Made and Sworn before the PARLIAMENT.</head>
+            <p>THE Deſign in general was (when all other means failed) by Fire and Sword ſo per<g ref="char:EOLhyphen"/>fectly to reduce all his Majeſty's Dominions to the <hi>Roman</hi> Religion, that no tolera<g ref="char:EOLhyphen"/>tion ſhould be given to any <hi>Proteſtant,</hi> but all ſhould have been extirpated both Root and Branch.</p>
+            <p>The Chief DESIGNERS were
+<list>
+                  <item>1. The Pope.</item>
+                  <item>(2.) Cardinal <hi>Howard.</hi>
+                  </item>
+                  <item>(3.) <hi>Johannes Paulus de Oliva,</hi> General of the <hi>Jeſuits</hi>
+                  </item>
+                  <item>(4.) <hi>Pedro Jeronymo de Corduba,</hi> Provincial of the <hi>Jeſuits</hi> at <hi>Caſtile.</hi>
+                  </item>
+                  <item>(5.) <hi>Le Cheeſe,</hi> a <hi>Jeſuit</hi> Confeſſor to the <hi>French</hi> King.</item>
+                  <item>(6.) The Provincial of the <hi>Jeſuits in England.</hi>
+                  </item>
+                  <item>(7.) The <hi>Bene<g ref="char:EOLhyphen"/>dictine Monks</hi> at the <hi>Savoy,</hi> and other Seminary Prieſts and <hi>Jeſuits.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Work was ſo great, and in their Apprehenſion ſo glorious, that the moſt Eminent of the Popiſh Clergy in <hi>Europe</hi> were engaged in it; it cannot be ſaid to be an Act or Contrivance of a few particular perſons, but an unanimous act of their whole Church, and ſo let it be Recorded to their everlaſting ſhame. The Pope in the Congregation <hi>de propaganda fide,</hi> held about <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1677, declared his Majeſty's Dominions to be S. <hi>Peter</hi>'s Patrimony, as forfeited to him for the Hereſie of Prince and People, and ſo to be diſpoſed of as he pleaſeth: To this end he ap<g ref="char:EOLhyphen"/>points Cardinal <hi>Howard,</hi> as his Legate, to take poſſeſſion of <hi>England</hi> in his name: He alſo con<g ref="char:EOLhyphen"/>ſtituteth new Arch-Biſhops, Biſhops, and other Dignitaries for all or moſt of the places in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> removing all the Biſhops, in poſſeſſion, from their preſent Dignities.</p>
+            <p>
+               <hi>Johannes Paulus de Oliva,</hi> General of the <hi>Jeſuits</hi> at <hi>Rome,</hi> gives direction to the Provincial of the <hi>Jeſuits</hi> in <hi>London,</hi> how to proceed in this Affair; where note the College, called the Society <hi>de propaganda fide,</hi> conſiſts of about 350 perſons: the Prieſts in <hi>England</hi> are in number about 1800.</p>
+            <p>At a Conſult held <hi>May</hi> 1678, by the Provincial and Society of <hi>Jeſuits,</hi> they declare the King an Heretick, they depoſe him and condemn him to be murdered. At this, and ſome other Con<g ref="char:EOLhyphen"/>ſults held before and after that Month, they appoint the chief Officers of State, as the Lord Chancellour, the Lord High Treaſurer, the Lord Privy Seal, the Secretaries of State, <hi>&amp;c.</hi> They alſo conſtitute the Officers of War both by Sea and Land, as the Lord General, the Lieu<g ref="char:EOLhyphen"/>tenant General, &amp;c. Collonels, Captains, and other Officers. Here note, the greateſt part of thoſe Officers were <hi>French</hi> and <hi>Iriſh,</hi> and not one <hi>Engliſh.</hi> Commander was appointed for the Fleet. Their Army ſhould have conſiſted of 1800 Officers, and 20000 common Souldiers liſted in and about <hi>London.</hi> Theſe they gave out were enough to cut the Throats of 10000 Proteſtants; eſpe<g ref="char:EOLhyphen"/>cially being taken upon a ſurprize, and themſelves being aſſiſted by the <hi>French. Groves, Smith,</hi> and others were appointed by the College to go from houſe to houſe to inform the chief <hi>Papiſts</hi> in and about <hi>London</hi> of theſe intentions, that they may have their approbation, which they call the conſent of the people. To carry on this or any ſuch like Deſign, the Society of <hi>Jeſuits</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have 70000<hi>
+                  <abbr>l.</abbr> per Annum</hi> Eſtate in Lands, managed by their Truſtees. They have 100000<abbr>
+                  <hi>l.</hi>
+               </abbr> in ready Money employed at intereſt by Scriveners, and uſed in Trade by Graziers, Jobbers, and Bankers. <hi>Johannes Paulus de Oliva</hi> ſupplies them with 11000<abbr>
+                  <hi>l.</hi>
+               </abbr> from <hi>Rome, Pedro Jeronymo de Corduba,</hi> Provincial of the <hi>Jeſuits</hi> at <hi>Caſtile,</hi> contributes 10000<abbr>
+                  <hi>l.</hi>
+               </abbr> more. <hi>Le Cheeſe,</hi> the <hi>French</hi>
+               <pb n="2" facs="tcp:101644:2"/>Kings Confeſſor, advances 10000<abbr>
+                  <hi>l.</hi>
+               </abbr> beſides ſeveral conſiderable Sums given to <hi>Coleman</hi> by Forreign Miniſters of State. For the more ſpeedy effecting of this, ſeveral perſons are ſet on work in ſe<g ref="char:EOLhyphen"/>veral ways to accompliſh it to whom huge Sums of ready Money were given in hand, and great Re<g ref="char:EOLhyphen"/>wards were promiſed afterwards when the work ſhould be done as
+<list>
+                  <item>(1.) 4 <hi>Iriſh</hi> Ruffians were employed to murder the King when he went laſt to <hi>Windſor,</hi> by ſuch ways and means as they could.</item>
+                  <item>(2.) <hi>Coig<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rs</hi> and <hi>Anderſon,</hi> two <hi>Bene<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ine</hi> Monks, were ſuborn'd to ſtab the King.</item>
+                  <item>(3.) <hi>Groves,</hi> other<g ref="char:EOLhyphen"/>wiſe called honeſt <hi>William,</hi> and <hi>Pickering</hi> undertook to ſhoot the King.</item>
+                  <item>(4.) Sir <hi>George Wake<g ref="char:EOLhyphen"/>man,</hi> the Queens phyſician, was contracted with to poyſon the King, for which he ſhould have had 15000<abbr>
+                        <hi>l.</hi>
+                     </abbr> 5000<abbr>
+                        <hi>l.</hi>
+                     </abbr> of which was paid in part by <hi>Coleman,</hi> and in the preſence of Dr. <hi>Eugarty</hi> an <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iſh</hi>-man.</item>
+               </list>
+            </p>
+            <p>They concluded to uſe the Name and Intereſt of the Duke of <hi>York,</hi> if he would comply with them.
+<list>
+                  <item>(1.) To accept of the three Kingdom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as a Gift from the pope; and hold them in Fee of him.</item>
+                  <item>(2.) If he would confirm their ſettlement of Church and State.</item>
+                  <item>(3.) If he would exter<g ref="char:EOLhyphen"/>minate all Proteſtants.</item>
+                  <item>(4.) If he would pardon the Murderers of his Brother, the Murderers of the people, and thoſe who ſhould fire the remaining part of the City and Suburbs.</item>
+               </list>
+            </p>
+            <p>How bloody the Execution of this plot muſt needs have been cannot eaſily be imagined, nor how miſerable the remaining part of the poor people and Children left alive muſt have been, can<g ref="char:EOLhyphen"/>not be conceived. No places in the World are ſo miſerably enſlaved under the worſt of Tyrants, as thoſe who live within the Verge of S. <hi>Peter</hi>'s Patrimony, which muſt have been the State of <hi>ENGLAND.</hi>
+            </p>
+            <p>As for <hi>IRELAND,</hi> the Pope had made the Titular Arch-Biſhop of <hi>Doublin,</hi> his Legate, to take poſſeſſion of that Kingdom in his name. <hi>Talbot</hi> his Brother was made General of all the Forces in <hi>Ireland.</hi> The Duke of <hi>Ormond</hi> was to be murdered, and then the <hi>Iriſh</hi> were to riſe, and form an Army of 5000 Horſe, and 20000 Foot, and to murder the Proteſtants as they did before. This they call, <hi>Zeal for the Roman Catholick Religion.</hi> To enable the <hi>Iriſh</hi> to this, the pope con<g ref="char:EOLhyphen"/>tributed 800000 Crowns, the <hi>French</hi> had already ſent over ſome ſupplies, and had promiſed a further ſeaſonable ſupply of Arms, Men, and Money, ſo ſoon as they ſhould be in Action. <hi>Le Cheeſe</hi> had a great influence in all theſe Tranſactions.</p>
+            <p>As for <hi>SCOTLAND,</hi> the great deſign of the <hi>Jeſuits</hi> was to raiſe a Rebellion there; to this end they divers times ſent over ſeveral <hi>Jeſuits</hi> to mingle themſelves, if they could, with the Diſſen<g ref="char:EOLhyphen"/>ters, ſo as they might preach in their field Meetings, and encourage them to take Arms, to vin<g ref="char:EOLhyphen"/>dicate their Religion and Liberty againſt Duke <hi>Lauderdale</hi>'s Tyranny, and alſo the Tyranny of the Biſhops, as they term it. The <hi>Papiſts</hi> were to raiſe an Army of 8000 Men to joyn with the Diſſenters, leſt they might have been ſuppreſſed by Duke <hi>Lauderdale.</hi>
+            </p>
+            <p>As to <hi>HOLLAND,</hi> they have ſent over twelve Meſſengers thither for to ſew diſſention be<g ref="char:EOLhyphen"/>tween the prince of <hi>Orange</hi> and the States, which in the <hi>Lovesteyn</hi> party go under the name of Fifth Monarchy-Men.</p>
+            <p>To theſe things may be added the firing of <hi>London</hi> upon deſign by the <hi>Jeſuits</hi> in <hi>Sept.</hi> 1666. which ſhould have been burnt ſooner, but they could not get perſons and things ready for Execu<g ref="char:EOLhyphen"/>tion, the perſons that were employed, the place where they met conſult, the manner how thoſe eight perſons, Executed at <hi>Tyturn</hi> in <hi>April</hi> before, were drawn in, and afterwards betrayed by them, were all ſpecified to the Parliament. Where note, the Gazette in <hi>April</hi> 1666, tells the World that eight perſons were Executed at <hi>Tyburn</hi> for deſigning to burn the City, the 3d of <hi>Sept.</hi> following, only as a colour of that Wicked Act they intended to commit, that it might be caſt upon the <hi>Fanaticks,</hi> whoſe Intereſt was, all the World knows, to preſerve this place for a ſhelter and hiding place to them. <hi>Richard Strange,</hi> a <hi>Jeſuit,</hi> ſometimes Provincial of that Society, did inform this, whoſe Information and the Execution do very well agree together. The Society of <hi>Jeſuits</hi> employed <hi>Groves</hi> and three <hi>Iriſh</hi> Ruffians procured by Dr. <hi>Fogarty</hi> to fire <hi>Southwark,</hi> for which they had 1000<abbr>
+                  <hi>l.</hi>
+               </abbr> that is, <hi>Groves</hi> had 400<abbr>
+                  <hi>l.</hi>
+               </abbr> and the <hi>Iriſh</hi> Ruffians had 200<abbr>
+                  <hi>l.</hi>
+               </abbr> a-piece, and yet the Society got by the Bargain, for whileſt the Fire rages they have their Inſtruments to plunder houſes, and ſteal what Goods they can, which they carry to their Ware-houſes in <hi>Wild ſtreet,</hi> and <hi>Somerſet-houſe.</hi> In the firing of <hi>Southwark</hi> they got 2000<abbr>
+                  <hi>l.</hi>
+               </abbr> in the burning of <hi>London</hi> they got 14000<abbr>
+                  <hi>l.</hi>
+               </abbr> as <hi>Strange</hi> the <hi>Jeſuit</hi> confeſſed. The Society of <hi>Jeſuits</hi> deſigned lately to burn <hi>Weſt<g ref="char:EOLhyphen"/>minſter, Wapping,</hi> and the remote parts of the Subburbs. <hi>Blondel</hi> a <hi>Jeſuite,</hi> had his poſt at <hi>Wap<g ref="char:EOLhyphen"/>ping,</hi> where he began his work, but the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire was by God's mercy prevented in other places. That this was done upon deſign is evident, for it was fore-told upon Oath 12 days before, that ſuch a day <hi>Wapping</hi> ſhould be ſet on Fire, as it came to paſs. This <hi>Blondel</hi> is the <hi>Jeſuits</hi> Ordinary at <hi>Newgate,</hi> where he endeavours to pervert the Priſoners condemned, by promiſing them pardon, and feeding them with hopes of Tranſportation, thoſe whom he finds Wicked enough for his pur<g ref="char:EOLhyphen"/>poſe, he entertains in his Service.</p>
+            <p>At preſent it is neceſſary to give this ſhort Account to ſatisfie the World, becauſe, notwithſtand<g ref="char:EOLhyphen"/>ing the Votes of both houſes of Parliament, that they were ſatisfied with the Information given them, that there was a Plot to murder the King, alter the Government, and ſubvert Religion eſtabliſht by Law, the <hi>Papiſts</hi> impudently deny the thing, or extenuate it, that very few were concerned in it, and that it was not ſo bad as the World makes it. In this their impudent lying they were much confirmed and encouraged by the Office ſent out by the Biſhops to be uſed on the Faſt appointed the 13th of <hi>November</hi> laſt, wherein there was no mention of this Plot; ſo that the people might be eaſily run down by the impudency of the <hi>Papiſts,</hi> that there was no Plot at all, nor deſign upon his Majeſty's perſon.</p>
+            <pb n="3" facs="tcp:101644:2"/>
+            <p>The <hi>Papiſts</hi> lay aſperſions on <hi>Oates</hi>'s perſon, (the fifſt Diſcoverer of this Plot) that he is a de<g ref="char:EOLhyphen"/>bauched Fellow, turned out of the College at St. <hi>Omers,</hi> and doth all this out of Revenge. They ſuggeſt that his Information muſt needs be fictitious, becauſe it is improbable he ſhould come in ſo ſhort a time to a diſtinct knowledge of ſo many particulars; or if he had heard or ſeen them, that he ſhould remember them; and that if he went amongſt them, with an intent to diſcover them, why did he not do it ſooner? and laſtly they ſay it is not likely that thoſe who mingled their Blood with that of his Majeſty's beſt Proteſtant Subjects in the late Wars, ſhould now, as one Man, have the leaſt thoughts of murdering the King they had fought for, and deſtroy the liberty of the Nation they had vindicated with their lives; theſe inſinuations ſeem plauſible, but when we look into them, we ſhall find they are either palpably falſe or frivolous.</p>
+            <p>As to <hi>Titus Oates</hi>'s Education, he was bred a Student in S. <hi>John</hi>'s College in <hi>Cambridge;</hi> that he is a Schollar appears by his proceeding Doctor in Divinity in <hi>Salamanca</hi> in <hi>Spain,</hi> no m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an Univerſity, where he did all his Exerciſe, more difficult than that performed by us here. He was ſometimes Miniſter at <hi>Chichester,</hi> and at laſt Chaplain to the Duke of <hi>Norfolk.</hi> In all theſe Stations he was a perſon of a ſober life and Converſation, and never charged with Debauchery, and dares appeal to the <hi>Jeſuits</hi> themſelves in this particular, who would never have eſteemed him ſo much, nor truſted him ſo far, had they not found him a ſober man, and fit for their purpoſe.</p>
+            <p>When he was the Duke of <hi>Norfolk</hi>'s Chaplain, he over-heard ſome whiſperings among the Prieſts, that there was ſome great Deſign on foot, but could not learn what it was. He had heard from his Proteſtant Friends, and had read in Sir <hi>Hammand L'Eſtrange</hi>'s Hiſtory of King <hi>Charles</hi> the Firſt, that the <hi>Papiſts</hi> had carryed on a Deſign for many years to introduce <hi>Popery</hi> again into theſe Nations, which created in him an itching deſire to ſee the depth of it, and if it were poſſible to countermine it; to this end he ſeemed to ſome Prieſts as if he were diſſatisfied in ſome things, as to our Church, and deſired an opportunity to diſcourſe with ſome of their <hi>Jeſuits,</hi> which the Prieſts procured, upon this condition, that he would not betray them. After ſundry Conferences with them, in which he ſuffered himſelf to be overcome, he was formally reconciled to the Church of <hi>Rome;</hi> after his Reconciliation he begged the Fathers of the <hi>Jeſuits</hi> that they would give him their Order, which was granted him after three days conſideration. They then told him, becauſe he was a Man of years, being about 28, they would not employ him as uſually they did Novices, in drudgery for the firſt two years, but he ſhould ſpend that time in being a Meſſenger for their Society. This exactly fitted his deſign, ſo that he was ſent with Letters into <hi>Spain,</hi> thoſe he opened, and by them began to ſmell ſomething of their Helliſh Deſigns, and managed his buſineſs ſo dexterouſly, that after a little time he was taken into their Conſult, as they call it, and ſo had an opportunity to ſee all that was acting at the preſent, and liberty, without ſuſpicion, to enquire how any thing paſt had been carryed on; more particularly he made it his buſineſs to inform himſelf of the beginning, progreſs, and concluſion of the late Wars, in all which he found the <hi>Jeſuits</hi> had a great hand. By this means he underſtood that the City was fired by their con<g ref="char:EOLhyphen"/>trivance, and was told how the Plot was laid, and who were the Actors in the ſeveral Scenes of it, which he might confidently believe, becauſe he ſaw how they burnt <hi>Southwark,</hi> and deſigned to burn the <hi>Temple, Weſtminſter,</hi> and the reſt of the Suburbs. He kept ſhort Notes of all things of moment that occurred from the time he was admitted into their Society, with an intent to pro<g ref="char:EOLhyphen"/>duce them when they might be of uſe; by this means he is able to give ſo exact an account of all occurrences, which are confirmed by other Circumſtances and Collateral Evidence, that in many hundred particulars no one thing hath interfered with another, nor with thoſe Papers that have been found elſewhere, or with thoſe Informations that have been given in by other perſons. For In<g ref="char:EOLhyphen"/>ſtance, He informs that <hi>Coleman</hi> was a great Agent in this buſineſs. Letters found inform the ſame. He informs that he delivered Commiſſions received from <hi>Langhorn,</hi> Letters intercepted make mention of Commiſſions ſent, which they hope were delivered. In ſhort, it was impoſſi<g ref="char:EOLhyphen"/>ble that a Man ſhould contrive ſuch a thing, attended with ſo many hundreds, nay ſome thouſands of Circumſtances, and comparing them with ſo many Papers, Informations, and Examinations of ſo many other Men, but they would interfere one with another if they were falſe, therefore it may be concluded the whole is true, till ſomething be found to the contrary, and then it will follow that this is the moſt Bloody, Devilliſh, and Helliſh deſign that ever was contrived. The Maſſacre in <hi>France,</hi> though very barbarous; The Maſſacre in <hi>Ireland,</hi> though very bloody; The Invaſion intended in 88; The Gun-Powder-Treaſon, were inferior to this, which ſhould imme<g ref="char:EOLhyphen"/>diately have ſpread it ſelf over ſo many Kingdoms.</p>
+            <p>That propoſition made in Parliament to Impriſon all the Prieſts and <hi>Jeſuits</hi> that can be found in the three Kingdoms, and to ſecure the Principal <hi>Papiſts</hi> in his Majeſties Dominions, to be kept as Hoſtages for his Majeſties life, ſeems not unreaſonable. It is eſſential to the <hi>Popiſh</hi> Religion, (founded upon the <hi>Pope</hi>'s Supremacy and Infallibility) that all <hi>Papists</hi> do own a Foreign Allegi<g ref="char:EOLhyphen"/>ance, namely, to the Pope; the Oath of Supremacy is Diametrically oppoſite to the Popiſh Re<g ref="char:EOLhyphen"/>ligion, whoever takes that Oath, and is a Papiſt ſtill, in theſe two fundamental points, debauches his Conſcience, and muſt do all the Pope bids him <hi>in ordine ad ſpiritualia</hi> notwithſtanding. When the Pope condemns any for <hi>Hereſie,</hi> (as is our Caſe now) all <hi>Papiſts</hi> are bound as <hi>Papiſts,</hi> to deſtroy ſuch when it is commanded; this is not only their Duty, but it is meritorious ſo to do, as the <hi>Papiſts</hi> did believe it in our intended Maſſacre. So that they are our inveterate, irreconcili<g ref="char:EOLhyphen"/>able, profeſt Enemies, and would have declared themſelves ſo, had they not been prevented by Gods mercy in preſerving the Kings life, and the ſeaſonable diſcovery of the Plot. Though they
+<pb n="4" facs="tcp:101644:3"/>are not in open Hoſtility, they lurk in ſecret, and ought to be lookt upon as Spyes, and by the Law of Nations may be uſed as ſuch, then, if inſtead of preſent death, which all Spyes deſerve, their Prieſts and <hi>Jeſuits,</hi> and Principal Laity are impriſoned, and there kept, not to be Executed, unleſs their Confederates abroad exert their Wicked Principles, and put them in Execution, by murdering our King, burning our Houſes, and imbroiling the Nation in Blood, this ſeems to be no piece of Injuſtice.</p>
+            <p>As to the time of <hi>Oates</hi>'s diſcovery of the Plot, if on the firſt intimation of the <hi>Papiſts</hi> deſign he had made a diſcovery of it, probably he had been rejected, becauſe he could not make out the particulars, as now he doth. He hath been hardly receive<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and therefore would in all likely<g ref="char:EOLhyphen"/>hood have been rejected then. Further, He had not the Command of himſelf, when he engaged in their Society; had he moved any way without, or contrary to their Order, he had preſently been ſuſpected, and might eaſily have been found out; as ſoon as he was ſent from S. <hi>Omers</hi> into <hi>England,</hi> and had an opportunity, he did ſhew his real intentions to preſerve his Majeſty's Perſon, and his Native Country from their <hi>Romiſh</hi> Enemies, the ſafety of which depended ſolely upon his Information, which for ought we ſee muſt otherwiſe have been a Prey to them.</p>
+            <p>As to the <hi>Papists</hi> aſſiſting King <hi>Charles</hi> the Firſt in the late Wars, the violence of the people forced them to that ſide, where they did as much hurt to his Majeſty, by the ſcandal they brought to his Party, as they did good by their Arms. For they were the Cauſe of that War, and it mat<g ref="char:EOLhyphen"/>tered not much what ſide they were on, ſo that their Deſign might go forward: They were the main Men which brought the King's Head to the Block. Monſieur <hi>Du Moulin,</hi> in print, hath offered to make good all theſe things, but was never called to it; he is yet living, a Man of Re<g ref="char:EOLhyphen"/>putation, who doubtleſs will make good his word.</p>
+            <p>To conclude, This is ſuch a plain Diſcovery of the Roguery and Villany of the <hi>Papiſts,</hi> as hath not been made ſince <hi>England</hi> departed from the Church of <hi>Rome.</hi> It is hoped that all poor, de<g ref="char:EOLhyphen"/>luded perſons, now they ſee ſuch things they could never have believed eſſential to the <hi>Romiſh</hi> Religion, will renounce their Forreign Allegiance to ſo Devilliſh a Maſter as the Pope is, and return to the Church of <hi>England,</hi> and free themſelves from thoſe impending troubles which will juſtly and neceſſarily come upon them; in the ſuffering of which they can have no comfort. Perſons that will retain (after all means uſed to ſatisfie them) ſuch Helliſh Principles as the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> do, ought either wholly to be rooted out from all Mankind, or to be put into ſuch a condi<g ref="char:EOLhyphen"/>dition, under ſuch Circumſtances, that they can do no hurt. As for ſuch as ſhall be obſtinate in their Irreligion, and maintain a reſolution to deſtroy all <hi>Hereticks,</hi> that is Proteſtants, as ſoon as they can, it ſeems not unreaſonable to take Hoſtages of them for ſecuring of the King's life and Kingdoms peace, which can be ſecured no other way but by putting things into ſuch a poſture, that the <hi>Papiſts</hi> ſhall preſently loſe much by the King's death, and get no advantage afterwards by his Succeſſors; which muſt be left to the wiſdom of Parliament. The Candour of the Proteſtants is ſuch, that no violence or affront hath been offered to any <hi>Papiſts,</hi> though the Proteſtants ſee their Houſes ſo frequently fired by their means, and are ſure this plot was laid by them, and ſhould have been put in Execution ſo ſoon as they had accompliſht their Treaſon upon the King's perſon.</p>
+            <p>Though the preſſure ſhould fall upon the <hi>Papists</hi> in general, when it may be preſumed many are innocent, there may be this offered in the caſe, that few <hi>Papiſts</hi> have made any diſcovery, though many, yea moſt of the Principal <hi>Papiſts</hi> in <hi>England</hi> have been acquainted with it; ſo that all the reſt ſeem to be guilty either <hi>â parte ante,</hi> by conſenting to it, and intending to act in it, or <hi>â parte post,</hi> by denying, approving, concealing, extenuating, and mincing of it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
